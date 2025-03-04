@@ -10,12 +10,15 @@ this is my Github ( you probably wont find see a lot of contributions because ma
 
 Here are some projects
 
-https://sliceofbyte.vercel.app/ (this is my blogging website , i write stuff here sometimes when i m high on existential crisis}
+https://sliceofbyte.vercel.app/ 
+
+(this is my blogging website , i write stuff here sometimes when i m high on existential crisis}
 made it using Hugo, paperMod, Devops
 
 skills used: Devops, Automation, Linux, Reading other's Code, integrating obsidian with coding and python, website hosting and CI/CD using github
 
 https://conways-game-of-life-by-debyte.vercel.app/
+
 https://github.com/Debyte404/conways-game-of-life
 
 My implementation of Conway's game of life in plain HTML , CSS and JS
@@ -28,21 +31,33 @@ https://github.com/Debyte404/EIVOM-Open
 
 my very first website, A Movie website with Ai Recomendations( currently expired because of expiry of tokens for ai usage)
 features
+
 🔐 Authentication: Secure user login and registration.
+
 🗃️ User Database Management: Efficient handling of user data.
+
 📅 Regularly Updated Movie Database: Stay up-to-date with the latest movies.
+
 🔥 Trending Movies: Discover what's popular right now.
+
 🔍 Movie Search: Find movies by title or keyword.
+
 ❤️ Personal Movie List: Add movies you like to your personal list.
+
 🔒 Secure Password Storage: End-to-end hashing ensures your password is safe.
+
 📄 Movie Details Pages: Get detailed information about each movie.
+
 🤖 AI-Generated Recommendations (Expired for now): Receive personalized movie recommendations based on your preferences. The AI avoids duplicates and filters out movies already in your list.
 
 for the tech stack
 
 Backend: Flask (Python)
+
 Frontend: HTML, CSS, JavaScript
+
 Database: MongoDB Atlas
+
 APIs: TMDB API, OMDB API, Gemini API
 
 I learned a lot in this project
