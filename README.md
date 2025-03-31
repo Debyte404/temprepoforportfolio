@@ -15,7 +15,7 @@ https://sliceofbyte.vercel.app/
 (this is my blogging website , i write stuff here sometimes when i m high on existential crisis}
 made it using Hugo, paperMod, Devops
 
-skills used: Devops, Automation, Linux, Reading other's Code, integrating obsidian with coding and python, website hosting and CI/CD using github
+skills used: Devops, Automation, Linux, Reading other's Code, integrating obsidian with coding and python, website hosting and CI/CD using github and vercel 
 
 https://conways-game-of-life-by-debyte.vercel.app/
 
@@ -29,7 +29,7 @@ https://eivom.vercel.app/
 
 https://github.com/Debyte404/EIVOM-Open
 
-my very first website, A Movie website with Ai Recomendations( currently expired because of expiry of tokens for ai usage)
+my very first website, A Movie website with Ai Recomendations( currently expired ai recommendations because of expiry of tokens for ai usage)
 features
 
 🔐 Authentication: Secure user login and registration.
@@ -78,7 +78,7 @@ a telegram botnet for reaction service
 
 My skillset:
 
-python, webdev (open to learn new frameworks and plan on doing so ), server management, Telegram bot development, Simple React native apps ( cant show the projects because clients, but one of the apps was a app that overlayed over a web view of a website and sort of injected javascript into the website to extract info and modify the experience of the website ),
+python, webdev (open to learn new frameworks and plan on doing so ), server management, Telegram bot development, Simple React native apps ( cant show the projects because clients, but one of the apps was a app that overlayed over a web view of a website and sort of injected javascript into the website to extract info and modify the experience of the website ), flutter app development
 
 server management
 i know a bunch of docker and i have managed plenty of linux servers
