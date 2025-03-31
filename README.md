@@ -27,6 +27,9 @@ skills: , HTML, CSS, JS, Hosting, CI/CD
 
 https://eivom.vercel.app/
 
+(give it some time to load and refresh incase it's slow)
+(you can make a account to try out more features:D )
+
 https://github.com/Debyte404/EIVOM-Open
 
 my very first website, A Movie website with Ai Recomendations( currently expired ai recommendations because of expiry of tokens for ai usage)
